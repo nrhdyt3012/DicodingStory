@@ -2,6 +2,12 @@
 
 DicodingStory is an Android application developed as part of the Dicoding Academy curriculum. This project showcases modern Android development best practices including MVVM architecture, Jetpack components (LiveData, ViewModel, Room, DataStore), and the use of the Paging 3 library. The app allows users to register, log in, view, and share stories with images and location data, leveraging a remote API.
 
+## View APK
+
+The documentation of PlantRO application in Bangkit Capstone Project 2024
+
+![View 1]([https://github.com/Capstone-Ps109/PlantRo/blob/master/PlantRO-view1.png](https://github.com/nrhdyt3012/DicodingStory/blob/master/Screenshot_20250520_132120_Screenshot_20250520_132055_Screenshot_20250520_131714_Screenshot_20250520_131334_Screenshot_20250520_132009.jpeg))
+
 ## Features
 
 - **User Authentication**: Register and login with secure session management.
