@@ -4,7 +4,7 @@ DicodingStory is an Android application developed as part of the Dicoding Academ
 
 ## View APK
 
-The documentation of PlantRO application in Bangkit Capstone Project 2024
+The documentation of DicodingStory
 
 ![View 1](https://github.com/nrhdyt3012/DicodingStory/blob/master/Screenshot_20250520_132120_Screenshot_20250520_132055_Screenshot_20250520_131714_Screenshot_20250520_131334_Screenshot_20250520_132009.jpeg)
 
